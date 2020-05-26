@@ -1,0 +1,56 @@
+body {
+  padding: 2em;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  font-size: 36pt;
+  text-align: center;
+}
+
+h2,
+h3 {
+  text-align: center;
+}
+
+.landing {
+  margin-top: 50%;
+}
+
+.select {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.select .btn {
+  width: 150px;
+  padding: 1em;
+  margin: 1em;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 12pt;
+  font-weight: 800;
+  background-color: lightgray;
+  border: black solid 1pt;
+}
+
+.body {
+  width: 100%;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.img {
+  text-align: center;
+}
+
+.section {
+  color: black;
+  margin: 2em 2em;
+  padding: 3em;
+  background-color: lightgray;
+  text-align: center;
+}
